@@ -1,6 +1,8 @@
 {
     "name": "Хлоя | Chloe",
     "description": "",
-    "image": "https://ipfs.io/ipfs/QmcqyJdzjK6a8wpaz7tesevGdr48wzkQohuXAH63V4WzKv",
+    "content_url": "https://hellonfts.github.io/img/232.mp4",
+    "image": "https://hellonfts.github.io/img/232.png",
+    "content_type": "video/mp4",
     "attributes": []
 }
