@@ -1,6 +1,8 @@
 {
     "name": "Иви | Evie",
     "description": "",
-    "image": "https://ipfs.io/ipfs/Qmc3ST35xk9owvmDxRkR2tumXydLyJdkH8aRKYz9badMEk",
+    "content_url": "https://hellonfts.github.io/img/234.mp4",
+    "image": "https://hellonfts.github.io/img/234.png",
+    "content_type": "video/mp4",
     "attributes": []
 }
