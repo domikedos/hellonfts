@@ -1,6 +1,8 @@
 {
     "name": "Одри | Audrey",
     "description": "",
-    "image": "https://ipfs.io/ipfs/QmTZKuUpbHaosTJc2AP8Ekws2N1CD41umxgh7HMDJjfLvm",
+    "content_url": "https://hellonfts.github.io/img/233.mp4",
+    "image": "https://hellonfts.github.io/img/233.png",
+    "content_type": "video/mp4",
     "attributes": []
 }
